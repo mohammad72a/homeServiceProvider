@@ -1,0 +1,7 @@
+۲۰۲۲-۰۳-۰۳ ۰۱:۲۵:۴۸,۵۱۷ INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting FirstSpringBootApplication using Java 11.0.2 on DESKTOP-V463BIO with PID 9952 (C:\Users\mohammad\IdeaProjects\first-spring-boot\target\classes started by mohammad in C:\Users\mohammad\IdeaProjects\first-spring-boot)
+۲۰۲۲-۰۳-۰۳ ۰۱:۲۵:۴۸,۵۳۵ INFO org.springframework.boot.SpringApplication [restartedMain] The following profiles are active: dev
+۲۰۲۲-۰۳-۰۳ ۰۱:۲۶:۰۹,۸۲۱ INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started FirstSpringBootApplication in 22.254 seconds (JVM running for 30.51)
+۲۰۲۲-۰۳-۰۳ ۰۱:۲۷:۰۸,۰۱۸ INFO ir.maktab.firstspringboot.aop.LogAspect [http-nio-8080-exec-2] CustomerServiceImpl: confirmToken called
+۲۰۲۲-۰۳-۰۳ ۰۱:۲۷:۰۸,۰۲۲ INFO ir.maktab.firstspringboot.aop.LogAspect [http-nio-8080-exec-2] ConfirmationTokenService: getToken called
+۲۰۲۲-۰۳-۰۳ ۰۱:۳۰:۰۸,۶۵۱ INFO ir.maktab.firstspringboot.aop.LogAspect [http-nio-8080-exec-2] ProficientService: confirmToken called
+۲۰۲۲-۰۳-۰۳ ۰۱:۳۰:۰۸,۶۵۸ INFO ir.maktab.firstspringboot.aop.LogAspect [http-nio-8080-exec-2] ConfirmationTokenService: getToken called

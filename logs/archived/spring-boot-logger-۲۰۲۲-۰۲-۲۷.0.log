@@ -1,0 +1,32 @@
+۲۰۲۲-۰۲-۲۷ ۲۳:۱۶:۲۹,۷۲۶ INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting FirstSpringBootApplication using Java 11.0.2 on DESKTOP-V463BIO with PID 8876 (C:\Users\mohammad\IdeaProjects\first-spring-boot\target\classes started by mohammad in C:\Users\mohammad\IdeaProjects\first-spring-boot)
+۲۰۲۲-۰۲-۲۷ ۲۳:۱۶:۲۹,۷۲۹ DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+۲۰۲۲-۰۲-۲۷ ۲۳:۱۶:۲۹,۷۲۹ INFO org.springframework.boot.SpringApplication [restartedMain] The following profiles are active: dev
+۲۰۲۲-۰۲-۲۷ ۲۳:۱۸:۲۸,۷۸۵ INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting FirstSpringBootApplication using Java 11.0.2 on DESKTOP-V463BIO with PID 5068 (C:\Users\mohammad\IdeaProjects\first-spring-boot\target\classes started by mohammad in C:\Users\mohammad\IdeaProjects\first-spring-boot)
+۲۰۲۲-۰۲-۲۷ ۲۳:۱۸:۲۸,۷۸۶ DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+۲۰۲۲-۰۲-۲۷ ۲۳:۱۸:۲۸,۷۸۷ INFO org.springframework.boot.SpringApplication [restartedMain] The following profiles are active: dev
+۲۰۲۲-۰۲-۲۷ ۲۳:۲۰:۱۹,۹۲۴ INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting FirstSpringBootApplication using Java 11.0.2 on DESKTOP-V463BIO with PID 3644 (C:\Users\mohammad\IdeaProjects\first-spring-boot\target\classes started by mohammad in C:\Users\mohammad\IdeaProjects\first-spring-boot)
+۲۰۲۲-۰۲-۲۷ ۲۳:۲۰:۱۹,۹۲۶ DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+۲۰۲۲-۰۲-۲۷ ۲۳:۲۰:۱۹,۹۲۶ INFO org.springframework.boot.SpringApplication [restartedMain] The following profiles are active: dev
+۲۰۲۲-۰۲-۲۷ ۲۳:۲۲:۲۲,۸۹۲ INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting FirstSpringBootApplication using Java 11.0.2 on DESKTOP-V463BIO with PID 12732 (C:\Users\mohammad\IdeaProjects\first-spring-boot\target\classes started by mohammad in C:\Users\mohammad\IdeaProjects\first-spring-boot)
+۲۰۲۲-۰۲-۲۷ ۲۳:۲۲:۲۲,۸۹۴ DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+۲۰۲۲-۰۲-۲۷ ۲۳:۲۲:۲۲,۸۹۵ INFO org.springframework.boot.SpringApplication [restartedMain] The following profiles are active: dev
+۲۰۲۲-۰۲-۲۷ ۲۳:۲۳:۳۹,۳۴۷ INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting FirstSpringBootApplication using Java 11.0.2 on DESKTOP-V463BIO with PID 10292 (C:\Users\mohammad\IdeaProjects\first-spring-boot\target\classes started by mohammad in C:\Users\mohammad\IdeaProjects\first-spring-boot)
+۲۰۲۲-۰۲-۲۷ ۲۳:۲۳:۳۹,۳۵۰ DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+۲۰۲۲-۰۲-۲۷ ۲۳:۲۳:۳۹,۳۵۰ INFO org.springframework.boot.SpringApplication [restartedMain] The following profiles are active: dev
+۲۰۲۲-۰۲-۲۷ ۲۳:۲۵:۱۵,۱۹۷ INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting FirstSpringBootApplication using Java 11.0.2 on DESKTOP-V463BIO with PID 8752 (C:\Users\mohammad\IdeaProjects\first-spring-boot\target\classes started by mohammad in C:\Users\mohammad\IdeaProjects\first-spring-boot)
+۲۰۲۲-۰۲-۲۷ ۲۳:۲۵:۱۵,۱۹۹ DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+۲۰۲۲-۰۲-۲۷ ۲۳:۲۵:۱۵,۱۹۹ INFO org.springframework.boot.SpringApplication [restartedMain] The following profiles are active: dev
+۲۰۲۲-۰۲-۲۷ ۲۳:۳۰:۰۶,۷۹۴ INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting FirstSpringBootApplication using Java 11.0.2 on DESKTOP-V463BIO with PID 11128 (C:\Users\mohammad\IdeaProjects\first-spring-boot\target\classes started by mohammad in C:\Users\mohammad\IdeaProjects\first-spring-boot)
+۲۰۲۲-۰۲-۲۷ ۲۳:۳۰:۰۶,۷۹۶ INFO org.springframework.boot.SpringApplication [restartedMain] The following profiles are active: dev
+۲۰۲۲-۰۲-۲۷ ۲۳:۳۶:۵۴,۴۳۹ INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting FirstSpringBootApplication using Java 11.0.2 on DESKTOP-V463BIO with PID 6776 (C:\Users\mohammad\IdeaProjects\first-spring-boot\target\classes started by mohammad in C:\Users\mohammad\IdeaProjects\first-spring-boot)
+۲۰۲۲-۰۲-۲۷ ۲۳:۳۶:۵۴,۴۴۴ INFO org.springframework.boot.SpringApplication [restartedMain] The following profiles are active: dev
+۲۰۲۲-۰۲-۲۷ ۲۳:۳۹:۳۵,۲۷۸ INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting FirstSpringBootApplication using Java 11.0.2 on DESKTOP-V463BIO with PID 5952 (C:\Users\mohammad\IdeaProjects\first-spring-boot\target\classes started by mohammad in C:\Users\mohammad\IdeaProjects\first-spring-boot)
+۲۰۲۲-۰۲-۲۷ ۲۳:۳۹:۳۵,۲۸۳ INFO org.springframework.boot.SpringApplication [restartedMain] The following profiles are active: dev
+۲۰۲۲-۰۲-۲۷ ۲۳:۴۹:۱۳,۵۶۸ INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting FirstSpringBootApplication using Java 11.0.2 on DESKTOP-V463BIO with PID 4172 (C:\Users\mohammad\IdeaProjects\first-spring-boot\target\classes started by mohammad in C:\Users\mohammad\IdeaProjects\first-spring-boot)
+۲۰۲۲-۰۲-۲۷ ۲۳:۴۹:۱۳,۵۷۲ INFO org.springframework.boot.SpringApplication [restartedMain] The following profiles are active: dev
+۲۰۲۲-۰۲-۲۷ ۲۳:۵۱:۱۵,۴۲۴ INFO org.springframework.boot.StartupInfoLogger [main] Starting FirstSpringBootApplicationTests using Java 11.0.2 on DESKTOP-V463BIO with PID 10724 (started by mohammad in C:\Users\mohammad\IdeaProjects\first-spring-boot)
+۲۰۲۲-۰۲-۲۷ ۲۳:۵۱:۱۵,۴۲۸ INFO org.springframework.boot.SpringApplication [main] The following profiles are active: dev
+۲۰۲۲-۰۲-۲۷ ۲۳:۵۴:۲۵,۷۷۳ INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting FirstSpringBootApplication using Java 11.0.2 on DESKTOP-V463BIO with PID 5764 (C:\Users\mohammad\IdeaProjects\first-spring-boot\target\classes started by mohammad in C:\Users\mohammad\IdeaProjects\first-spring-boot)
+۲۰۲۲-۰۲-۲۷ ۲۳:۵۴:۲۵,۷۷۸ INFO org.springframework.boot.SpringApplication [restartedMain] The following profiles are active: dev
+۲۰۲۲-۰۲-۲۷ ۲۳:۵۷:۰۳,۵۴۵ INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting FirstSpringBootApplication using Java 11.0.2 on DESKTOP-V463BIO with PID 860 (C:\Users\mohammad\IdeaProjects\first-spring-boot\target\classes started by mohammad in C:\Users\mohammad\IdeaProjects\first-spring-boot)
+۲۰۲۲-۰۲-۲۷ ۲۳:۵۷:۰۳,۵۴۹ INFO org.springframework.boot.SpringApplication [restartedMain] The following profiles are active: dev
